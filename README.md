@@ -30,9 +30,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Download Torrents Straight To Google Drive!](https://spadebee.com/2020/11/24/download-torrents-straight-to-google-drive/?utm_source=rss&utm_medium=rss&utm_campaign=download-torrents-straight-to-google-drive)
-- [Weekly News November Week 1](https://spadebee.com/2020/11/10/weekly-news-nov-1/?utm_source=rss&utm_medium=rss&utm_campaign=weekly-news-nov-1)
-- [Best Way To Unlock Max Graphics/FPS In PUBG and CoD Mobile without ban](https://spadebee.com/2020/09/13/best-way-to-unlock-max-graphics-fps-in-pubg-and-cod-mobile-without-ban/?utm_source=rss&utm_medium=rss&utm_campaign=best-way-to-unlock-max-graphics-fps-in-pubg-and-cod-mobile-without-ban)
-- [requirements.txt: How to generate one for your project!](https://spadebee.com/2020/09/01/requirements-txt-how-to-generate-one-for-your-project/?utm_source=rss&utm_medium=rss&utm_campaign=requirements-txt-how-to-generate-one-for-your-project)
-- [Windows Terminal got an ultimate update!](https://spadebee.com/2020/08/30/windows-terminal-got-an-ultimate-update/?utm_source=rss&utm_medium=rss&utm_campaign=windows-terminal-got-an-ultimate-update)
+- [OnePlus to abandon their software for ColorOS!](https://spadebee.com/2021/06/20/oneplus-to-abandon-their-software-for-coloros/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-to-abandon-their-software-for-coloros)
+- [Overcooked 2 is free on the Epic Games Store!](https://spadebee.com/2021/06/20/overcooked-2-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=overcooked-2-is-free-on-the-epic-games-store)
+- [YouTube finally brings to iOS what Android had for years!](https://spadebee.com/2021/06/19/youtube-finally-brings-to-ios-what-android-had-for-years/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-finally-brings-to-ios-what-android-had-for-years)
+- [How To Boost FPS In BGMI and PUBG Using GFX Tool!](https://spadebee.com/2021/06/19/boost-fps-in-bgmi-using-gfx-tool/?utm_source=rss&utm_medium=rss&utm_campaign=boost-fps-in-bgmi-using-gfx-tool)
+- [Google to make Find My Devices like Apple AirTags!](https://spadebee.com/2021/06/18/google-to-make-find-my-devices-like-apple-airtags/?utm_source=rss&utm_medium=rss&utm_campaign=google-to-make-find-my-devices-like-apple-airtags)
 <!-- BLOG-POST-LIST:END -->
