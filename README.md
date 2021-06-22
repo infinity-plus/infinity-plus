@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
-* [OnePlus to abandon their software for ColorOS!](https://spadebee.com/2021/06/20/oneplus-to-abandon-their-software-for-coloros/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-to-abandon-their-software-for-coloros)
-* [Overcooked 2 is free on the Epic Games Store!](https://spadebee.com/2021/06/20/overcooked-2-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=overcooked-2-is-free-on-the-epic-games-store)
-* [YouTube finally brings to iOS what Android had for years!](https://spadebee.com/2021/06/19/youtube-finally-brings-to-ios-what-android-had-for-years/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-finally-brings-to-ios-what-android-had-for-years)
-* [How To Boost FPS In BGMI and PUBG Using GFX Tool!](https://spadebee.com/2021/06/19/boost-fps-in-bgmi-using-gfx-tool/?utm_source=rss&utm_medium=rss&utm_campaign=boost-fps-in-bgmi-using-gfx-tool)
-* [Google to make Find My Devices like Apple AirTags!](https://spadebee.com/2021/06/18/google-to-make-find-my-devices-like-apple-airtags/?utm_source=rss&utm_medium=rss&utm_campaign=google-to-make-find-my-devices-like-apple-airtags)
+- [OnePlus to abandon their software for ColorOS!](https://spadebee.com/2021/06/20/oneplus-to-abandon-their-software-for-coloros/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-to-abandon-their-software-for-coloros)
+- [Overcooked 2 is free on the Epic Games Store!](https://spadebee.com/2021/06/20/overcooked-2-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=overcooked-2-is-free-on-the-epic-games-store)
+- [YouTube finally brings to iOS what Android had for years!](https://spadebee.com/2021/06/19/youtube-finally-brings-to-ios-what-android-had-for-years/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-finally-brings-to-ios-what-android-had-for-years)
+- [How To Boost FPS In BGMI and PUBG Using GFX Tool!](https://spadebee.com/2021/06/19/boost-fps-in-bgmi-using-gfx-tool/?utm_source=rss&utm_medium=rss&utm_campaign=boost-fps-in-bgmi-using-gfx-tool)
+- [Google to make Find My Devices like Apple AirTags!](https://spadebee.com/2021/06/18/google-to-make-find-my-devices-like-apple-airtags/?utm_source=rss&utm_medium=rss&utm_campaign=google-to-make-find-my-devices-like-apple-airtags)
 <!-- BLOG-POST-LIST:END -->
