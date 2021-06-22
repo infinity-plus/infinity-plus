@@ -14,3 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://spadebee.com/feed/"
+          committer_username: "infinity-plus"
+          committer_email: "navdhareharsh2001@gmail.com"
