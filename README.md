@@ -8,7 +8,9 @@
 * 💬 Ask me about Python, C, C++, Bash
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I can beatbox : P
-* 📫 Reach me at:
+* 📫 Reach me at: 
+ 
+
     [<img src="https://simpleicons.org/icons/instagram.svg" width="30">](https://www.instagram.com/plus_infinity.hn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="https://simpleicons.org/icons/facebook.svg" width="30">](https://www.facebook.com/harsh.navdhare.infinity) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     [<img src="https://simpleicons.org/icons/twitter.svg" width="30">](https://twitter.com/hnavdhare) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -17,9 +19,10 @@
     [<img src="https://simpleicons.org/icons/snapchat.svg" width="30">](https://www.snapchat.com/add/plus.infinity) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     [<img src="https://simpleicons.org/icons/gmail.svg" width="30">](mailto:navdhareharsh2001@gmail.com)
 
-![Harsh's github stats](https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark)
+ 
+ 
 
-[![Harsh's WakaTime Stats](https://github-readme-stats-infinity-plus.vercel.app/api/wakatime?username=infinity_plus&theme=dark)](https://wakatime.com/@infinity_plus)
+![Harsh's github stats](https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark) [![Harsh's WakaTime Stats](https://github-readme-stats-infinity-plus.vercel.app/api/wakatime?username=infinity_plus&theme=dark)](https://wakatime.com/@infinity_plus)
 
 # Blog posts
 
