@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi’s MIUI 13 to abandon many old devices!](https://spadebee.com/2021/06/23/xiaomis-miui-13-to-abandon-many-old-devices/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomis-miui-13-to-abandon-many-old-devices)
 - [How to install Windows 11 on your PC!](https://spadebee.com/2021/06/22/how-to-install-windows-11-on-your-pc/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-windows-11-on-your-pc)
 - [iPhone 13 to drop latest technology on the market!](https://spadebee.com/2021/06/22/iphone-13-to-drop-latest-technology-on-the-market/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-13-to-drop-latest-technology-on-the-market)
 - [OnePlus to abandon their software for ColorOS!](https://spadebee.com/2021/06/20/oneplus-to-abandon-their-software-for-coloros/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-to-abandon-their-software-for-coloros)
 - [Overcooked 2 is free on the Epic Games Store!](https://spadebee.com/2021/06/20/overcooked-2-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=overcooked-2-is-free-on-the-epic-games-store)
-- [YouTube finally brings to iOS what Android had for years!](https://spadebee.com/2021/06/19/youtube-finally-brings-to-ios-what-android-had-for-years/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-finally-brings-to-ios-what-android-had-for-years)
 <!-- BLOG-POST-LIST:END -->
