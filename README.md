@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Get crazy good deals with Steam Summer Sale!](https://spadebee.com/2021/06/26/get-crazy-good-deals-with-steam-summer-sale/?utm_source=rss&utm_medium=rss&utm_campaign=get-crazy-good-deals-with-steam-summer-sale)
 - [Samsung Galaxy Z line-up renders are out!](https://spadebee.com/2021/06/25/samsung-galaxy-z-line-up-renders-are-out/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-galaxy-z-line-up-renders-are-out)
 - [Windows 11 to make your phone obsolete!](https://spadebee.com/2021/06/24/windows-11-to-make-your-phone-obsolete/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-to-make-your-phone-obsolete)
 - [Get performance boost on Windows 11 for free!](https://spadebee.com/2021/06/24/get-performance-boost-on-windows-11-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=get-performance-boost-on-windows-11-for-free)
 - [Xiaomi’s MIUI 13 to abandon many old devices!](https://spadebee.com/2021/06/23/xiaomis-miui-13-to-abandon-many-old-devices/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomis-miui-13-to-abandon-many-old-devices)
-- [How to install Windows 11 on your PC!](https://spadebee.com/2021/06/22/how-to-install-windows-11-on-your-pc/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-install-windows-11-on-your-pc)
 <!-- BLOG-POST-LIST:END -->
