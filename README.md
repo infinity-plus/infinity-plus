@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Motorola Edge 20’s massive leaks are here!](https://spadebee.com/2021/06/27/motorola-edge-20s-massive-leaks-are-here/?utm_source=rss&utm_medium=rss&utm_campaign=motorola-edge-20s-massive-leaks-are-here)
 - [Windows 11: How to check if your PC is compatible!](https://spadebee.com/2021/06/27/windows-11-how-to-check-if-your-pc-is-compatible/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-how-to-check-if-your-pc-is-compatible)
 - [Get crazy good deals with Steam Summer Sale!](https://spadebee.com/2021/06/26/get-crazy-good-deals-with-steam-summer-sale/?utm_source=rss&utm_medium=rss&utm_campaign=get-crazy-good-deals-with-steam-summer-sale)
 - [Samsung Galaxy Z line-up renders are out!](https://spadebee.com/2021/06/25/samsung-galaxy-z-line-up-renders-are-out/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-galaxy-z-line-up-renders-are-out)
 - [Windows 11 to make your phone obsolete!](https://spadebee.com/2021/06/24/windows-11-to-make-your-phone-obsolete/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-to-make-your-phone-obsolete)
-- [Get performance boost on Windows 11 for free!](https://spadebee.com/2021/06/24/get-performance-boost-on-windows-11-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=get-performance-boost-on-windows-11-for-free)
 <!-- BLOG-POST-LIST:END -->
