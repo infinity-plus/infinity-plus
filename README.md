@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11: How to check if your PC is compatible!](https://spadebee.com/2021/06/27/windows-11-how-to-check-if-your-pc-is-compatible/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-how-to-check-if-your-pc-is-compatible)
 - [Get crazy good deals with Steam Summer Sale!](https://spadebee.com/2021/06/26/get-crazy-good-deals-with-steam-summer-sale/?utm_source=rss&utm_medium=rss&utm_campaign=get-crazy-good-deals-with-steam-summer-sale)
 - [Samsung Galaxy Z line-up renders are out!](https://spadebee.com/2021/06/25/samsung-galaxy-z-line-up-renders-are-out/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-galaxy-z-line-up-renders-are-out)
 - [Windows 11 to make your phone obsolete!](https://spadebee.com/2021/06/24/windows-11-to-make-your-phone-obsolete/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-to-make-your-phone-obsolete)
 - [Get performance boost on Windows 11 for free!](https://spadebee.com/2021/06/24/get-performance-boost-on-windows-11-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=get-performance-boost-on-windows-11-for-free)
-- [Xiaomi’s MIUI 13 to abandon many old devices!](https://spadebee.com/2021/06/23/xiaomis-miui-13-to-abandon-many-old-devices/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomis-miui-13-to-abandon-many-old-devices)
 <!-- BLOG-POST-LIST:END -->
