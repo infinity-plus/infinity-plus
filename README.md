@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung new flagship SoC to beat Apple in graphics performance!](https://spadebee.com/2021/06/29/samsung-new-flagship-cpu-to-beat-apple-in-graphics-performance/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-new-flagship-cpu-to-beat-apple-in-graphics-performance)
 - [Windows 11 is officially here, and here’s how to install it!](https://spadebee.com/2021/06/28/windows-11-is-officially-here-and-heres-how-to-install-it/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-is-officially-here-and-heres-how-to-install-it)
 - [Qualcomm has announced all new SD888+](https://spadebee.com/2021/06/28/qualcomm-has-announced-all-new-sd888/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-has-announced-all-new-sd888)
 - [Motorola Edge 20’s massive leaks are here!](https://spadebee.com/2021/06/27/motorola-edge-20s-massive-leaks-are-here/?utm_source=rss&utm_medium=rss&utm_campaign=motorola-edge-20s-massive-leaks-are-here)
 - [Windows 11: How to check if your PC is compatible!](https://spadebee.com/2021/06/27/windows-11-how-to-check-if-your-pc-is-compatible/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-how-to-check-if-your-pc-is-compatible)
-- [Get crazy good deals with Steam Summer Sale!](https://spadebee.com/2021/06/26/get-crazy-good-deals-with-steam-summer-sale/?utm_source=rss&utm_medium=rss&utm_campaign=get-crazy-good-deals-with-steam-summer-sale)
 <!-- BLOG-POST-LIST:END -->
