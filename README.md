@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Genshin Impact’s highly anticipated v2.0 update is launching soon!](https://spadebee.com/2021/07/03/genshin-impacts-highly-anticipated-v2-0-update-is-launching-soon/?utm_source=rss&utm_medium=rss&utm_campaign=genshin-impacts-highly-anticipated-v2-0-update-is-launching-soon)
+- [Xiaomi Mi 12 to come with SD895 and insane 200MP cameras!](https://spadebee.com/2021/07/03/xiaomi-mi-12-to-come-with-sd895-and-insane-200mp-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomi-mi-12-to-come-with-sd895-and-insane-200mp-cameras)
 - [The Spectrum Retreat is free on the Epic Games Store!](https://spadebee.com/2021/07/02/the-spectrum-retreat-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=the-spectrum-retreat-is-free-on-the-epic-games-store)
 - [iPhone and iPad Pros to feature bleeding edge 3nm chips!](https://spadebee.com/2021/07/02/iphone-and-ipad-pros-to-feature-bleeding-edge-3nm-chips/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-and-ipad-pros-to-feature-bleeding-edge-3nm-chips)
 - [GTA V fans improved FPS with AMD FSR for free!](https://spadebee.com/2021/07/01/gta-v-fans-improved-fps-with-amd-fsr-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=gta-v-fans-improved-fps-with-amd-fsr-for-free)
-- [WhatsApp to take another feature from Telegram!](https://spadebee.com/2021/06/30/whatsapp-to-take-another-feature-from-telegram/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-to-take-another-feature-from-telegram)
-- [Crypto Miners make GPUs cheaper and affordable!](https://spadebee.com/2021/06/30/crypto-miners-make-gpus-cheaper-and-affordable/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-miners-make-gpus-cheaper-and-affordable)
 <!-- BLOG-POST-LIST:END -->
