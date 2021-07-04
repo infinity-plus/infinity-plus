@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [OnePlus goes downhill with its software quality after ColorOS merger!](https://spadebee.com/2021/07/04/oneplus-goes-downhill-with-its-software-quality-after-coloros-merger/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-goes-downhill-with-its-software-quality-after-coloros-merger)
 - [Capcom’s The Great Ace Attorney series to be finally localized after 6 years, exciting its fans](https://spadebee.com/2021/07/04/capcoms-the-great-ace-attorney-series-to-be-finally-localized-after-6-years-exciting-its-fans/?utm_source=rss&utm_medium=rss&utm_campaign=capcoms-the-great-ace-attorney-series-to-be-finally-localized-after-6-years-exciting-its-fans)
 - [Genshin Impact’s highly anticipated v2.0 update is launching soon!](https://spadebee.com/2021/07/03/genshin-impacts-highly-anticipated-v2-0-update-is-launching-soon/?utm_source=rss&utm_medium=rss&utm_campaign=genshin-impacts-highly-anticipated-v2-0-update-is-launching-soon)
 - [Xiaomi Mi 12 to come with SD895 and insane 200MP cameras!](https://spadebee.com/2021/07/03/xiaomi-mi-12-to-come-with-sd895-and-insane-200mp-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomi-mi-12-to-come-with-sd895-and-insane-200mp-cameras)
 - [The Spectrum Retreat is free on the Epic Games Store!](https://spadebee.com/2021/07/02/the-spectrum-retreat-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=the-spectrum-retreat-is-free-on-the-epic-games-store)
-- [iPhone and iPad Pros to feature bleeding edge 3nm chips!](https://spadebee.com/2021/07/02/iphone-and-ipad-pros-to-feature-bleeding-edge-3nm-chips/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-and-ipad-pros-to-feature-bleeding-edge-3nm-chips)
 <!-- BLOG-POST-LIST:END -->
