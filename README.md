@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [OnePlus 9 and 9 Pro found to be cheating benchmarks!](https://spadebee.com/2021/07/07/oneplus-9-and-9-pro-found-to-be-cheating-benchmarks/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-9-and-9-pro-found-to-be-cheating-benchmarks)
 - [Watched Robocop movies? Now its new game is coming up!!](https://spadebee.com/2021/07/07/watched-robocop-movies-now-its-new-game-is-coming-up/?utm_source=rss&utm_medium=rss&utm_campaign=watched-robocop-movies-now-its-new-game-is-coming-up)
 - [WhatsApp to start rolling out multi-device support to Beta Testers!](https://spadebee.com/2021/07/06/whatsapp-to-start-rolling-out-multi-device-support-to-beta-testers/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-to-start-rolling-out-multi-device-support-to-beta-testers)
 - [Samsung Galaxy F22 launched with killer specs for affordable price!](https://spadebee.com/2021/07/06/samsung-galaxy-f22-launched-with-killer-specs-for-affordable-price/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-galaxy-f22-launched-with-killer-specs-for-affordable-price)
 - [OnePlus goes downhill with its software quality after ColorOS merger!](https://spadebee.com/2021/07/04/oneplus-goes-downhill-with-its-software-quality-after-coloros-merger/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-goes-downhill-with-its-software-quality-after-coloros-merger)
-- [Capcom’s The Great Ace Attorney series to be finally localized after 6 years, exciting its fans](https://spadebee.com/2021/07/04/capcoms-the-great-ace-attorney-series-to-be-finally-localized-after-6-years-exciting-its-fans/?utm_source=rss&utm_medium=rss&utm_campaign=capcoms-the-great-ace-attorney-series-to-be-finally-localized-after-6-years-exciting-its-fans)
 <!-- BLOG-POST-LIST:END -->
