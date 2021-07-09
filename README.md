@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualcomm releases the ultimate Snapdragon smartphone!](https://spadebee.com/2021/07/09/qualcomm-releases-the-ultimate-snapdragon-smartphone/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-releases-the-ultimate-snapdragon-smartphone)
 - [Get primogems and other goodies in Genshin Impact for free!](https://spadebee.com/2021/07/09/get-primogems-and-other-goodies-in-genshin-impact-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=get-primogems-and-other-goodies-in-genshin-impact-for-free)
 - [OnePlus 9 and 9 Pro found to be cheating benchmarks!](https://spadebee.com/2021/07/07/oneplus-9-and-9-pro-found-to-be-cheating-benchmarks/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-9-and-9-pro-found-to-be-cheating-benchmarks)
 - [Watched Robocop movies? Now its new game is coming up!!](https://spadebee.com/2021/07/07/watched-robocop-movies-now-its-new-game-is-coming-up/?utm_source=rss&utm_medium=rss&utm_campaign=watched-robocop-movies-now-its-new-game-is-coming-up)
 - [WhatsApp to start rolling out multi-device support to Beta Testers!](https://spadebee.com/2021/07/06/whatsapp-to-start-rolling-out-multi-device-support-to-beta-testers/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-to-start-rolling-out-multi-device-support-to-beta-testers)
-- [Samsung Galaxy F22 launched with killer specs for affordable price!](https://spadebee.com/2021/07/06/samsung-galaxy-f22-launched-with-killer-specs-for-affordable-price/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-galaxy-f22-launched-with-killer-specs-for-affordable-price)
 <!-- BLOG-POST-LIST:END -->
