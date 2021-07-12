@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel 12th Gen CPUs to bring bleeding edge tech!](https://spadebee.com/2021/07/12/intel-12th-gen-cpus-to-bring-bleeding-edge-tech/?utm_source=rss&utm_medium=rss&utm_campaign=intel-12th-gen-cpus-to-bring-bleeding-edge-tech)
 - [Realme has made a laptop, but the Apple MacBook way!](https://spadebee.com/2021/07/12/realme-has-made-a-laptop-but-the-apple-macbook-way/?utm_source=rss&utm_medium=rss&utm_campaign=realme-has-made-a-laptop-but-the-apple-macbook-way)
 - [Google Pixel 6 leaks are here in their full glory!](https://spadebee.com/2021/07/10/google-pixel-6-leaks-are-here-in-their-full-glory/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-6-leaks-are-here-in-their-full-glory)
 - [Qualcomm releases the ultimate Snapdragon smartphone!](https://spadebee.com/2021/07/09/qualcomm-releases-the-ultimate-snapdragon-smartphone/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-releases-the-ultimate-snapdragon-smartphone)
 - [Get primogems and other goodies in Genshin Impact for free!](https://spadebee.com/2021/07/09/get-primogems-and-other-goodies-in-genshin-impact-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=get-primogems-and-other-goodies-in-genshin-impact-for-free)
-- [OnePlus 9 and 9 Pro found to be cheating benchmarks!](https://spadebee.com/2021/07/07/oneplus-9-and-9-pro-found-to-be-cheating-benchmarks/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-9-and-9-pro-found-to-be-cheating-benchmarks)
 <!-- BLOG-POST-LIST:END -->
