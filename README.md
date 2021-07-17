@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Obduction is free on the Epic Games Store!](https://spadebee.com/2021/07/17/obduction-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=obduction-is-free-on-the-epic-games-store)
 - [Microsoft makes cloud PCs so you don’t need to buy one!](https://spadebee.com/2021/07/15/microsoft-makes-cloud-pcs-so-you-dont-need-to-buy-one/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-makes-cloud-pcs-so-you-dont-need-to-buy-one)
 - [Apple listened to its consumers and launched a killer product!](https://spadebee.com/2021/07/14/apple-listened-to-its-consumers-and-launched-a-killer-product/?utm_source=rss&utm_medium=rss&utm_campaign=apple-listened-to-its-consumers-and-launched-a-killer-product)
 - [Intel 12th Gen CPUs to bring bleeding edge tech!](https://spadebee.com/2021/07/12/intel-12th-gen-cpus-to-bring-bleeding-edge-tech/?utm_source=rss&utm_medium=rss&utm_campaign=intel-12th-gen-cpus-to-bring-bleeding-edge-tech)
 - [Realme has made a laptop, but the Apple MacBook way!](https://spadebee.com/2021/07/12/realme-has-made-a-laptop-but-the-apple-macbook-way/?utm_source=rss&utm_medium=rss&utm_campaign=realme-has-made-a-laptop-but-the-apple-macbook-way)
-- [Google Pixel 6 leaks are here in their full glory!](https://spadebee.com/2021/07/10/google-pixel-6-leaks-are-here-in-their-full-glory/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-6-leaks-are-here-in-their-full-glory)
 <!-- BLOG-POST-LIST:END -->
