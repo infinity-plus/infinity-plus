@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [OnePlus Nord 2 to be similar to its flagship counterpart!](https://spadebee.com/2021/07/18/oneplus-nord-2-to-be-similar-to-its-flagship-counterpart/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-nord-2-to-be-similar-to-its-flagship-counterpart)
 - [WhatsApp takes privacy to a whole new level!](https://spadebee.com/2021/07/17/whatsapp-takes-privacy-to-a-whole-new-level/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-takes-privacy-to-a-whole-new-level)
 - [Obduction is free on the Epic Games Store!](https://spadebee.com/2021/07/17/obduction-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=obduction-is-free-on-the-epic-games-store)
 - [Microsoft makes cloud PCs so you don’t need to buy one!](https://spadebee.com/2021/07/15/microsoft-makes-cloud-pcs-so-you-dont-need-to-buy-one/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-makes-cloud-pcs-so-you-dont-need-to-buy-one)
 - [Apple listened to its consumers and launched a killer product!](https://spadebee.com/2021/07/14/apple-listened-to-its-consumers-and-launched-a-killer-product/?utm_source=rss&utm_medium=rss&utm_campaign=apple-listened-to-its-consumers-and-launched-a-killer-product)
-- [Intel 12th Gen CPUs to bring bleeding edge tech!](https://spadebee.com/2021/07/12/intel-12th-gen-cpus-to-bring-bleeding-edge-tech/?utm_source=rss&utm_medium=rss&utm_campaign=intel-12th-gen-cpus-to-bring-bleeding-edge-tech)
 <!-- BLOG-POST-LIST:END -->
