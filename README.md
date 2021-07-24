@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA is now scared of AMD GPUs!](https://spadebee.com/2021/07/24/nvidia-is-now-scared-of-amd-gpus/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-is-now-scared-of-amd-gpus)
 - [MacBook Pro 16-inch to be cooler and GPU monstrosity!](https://spadebee.com/2021/07/23/macbook-pro-16-inch-to-be-cooler-and-gpu-monstrosity/?utm_source=rss&utm_medium=rss&utm_campaign=macbook-pro-16-inch-to-be-cooler-and-gpu-monstrosity)
 - [POCO F3 GT: The ultimate flagship killer?](https://spadebee.com/2021/07/23/poco-f3-gt-the-ultimate-flagship-killer/?utm_source=rss&utm_medium=rss&utm_campaign=poco-f3-gt-the-ultimate-flagship-killer)
 - [Amazon Prime Day Sale: Best deals and offers!](https://spadebee.com/2021/07/21/amazon-prime-day-sale-best-deals-and-offers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-prime-day-sale-best-deals-and-offers)
 - [Telegram fixes the vulnerabilities on the platform!](https://spadebee.com/2021/07/20/telegram-fixes-the-vulnerabilities-on-the-platform/?utm_source=rss&utm_medium=rss&utm_campaign=telegram-fixes-the-vulnerabilities-on-the-platform)
-- [Apple brings to iPhones what Android had for years!](https://spadebee.com/2021/07/19/apple-brings-to-iphones-what-android-had-for-years/?utm_source=rss&utm_medium=rss&utm_campaign=apple-brings-to-iphones-what-android-had-for-years)
 <!-- BLOG-POST-LIST:END -->
