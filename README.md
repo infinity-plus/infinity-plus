@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Snapdragon 898 to be a performance monster!](https://spadebee.com/2021/07/29/snapdragon-898-to-be-a-performance-monster/?utm_source=rss&utm_medium=rss&utm_campaign=snapdragon-898-to-be-a-performance-monster)
 - [Realme blatantly rips off Apple MagSafe technology!](https://spadebee.com/2021/07/28/realme-blatantly-rips-off-apple-magsafe-technology/?utm_source=rss&utm_medium=rss&utm_campaign=realme-blatantly-rips-off-apple-magsafe-technology)
 - [MediaTek to launch bleeding edge 4nm CPUs soon!](https://spadebee.com/2021/07/28/mediatek-to-launch-bleeding-edge-4nm-cpus-soon/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-to-launch-bleeding-edge-4nm-cpus-soon)
 - [Verdun is free on the Epic Games Store!](https://spadebee.com/2021/07/25/verdun-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=verdun-is-free-on-the-epic-games-store)
 - [NVIDIA is now scared of AMD GPUs!](https://spadebee.com/2021/07/24/nvidia-is-now-scared-of-amd-gpus/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-is-now-scared-of-amd-gpus)
-- [MacBook Pro 16-inch to be cooler and GPU monstrosity!](https://spadebee.com/2021/07/23/macbook-pro-16-inch-to-be-cooler-and-gpu-monstrosity/?utm_source=rss&utm_medium=rss&utm_campaign=macbook-pro-16-inch-to-be-cooler-and-gpu-monstrosity)
 <!-- BLOG-POST-LIST:END -->
