@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mothergunship is free on the Epic Games Store!](https://spadebee.com/2021/07/31/mothergunship-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=mothergunship-is-free-on-the-epic-games-store)
 - [Windows 11 first Beta is officially out! ( Spadebee Exclusive )](https://spadebee.com/2021/07/30/windows-11-first-beta-is-officially-out-spadebee-exclusive/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-first-beta-is-officially-out-spadebee-exclusive)
 - [Snapdragon 898 to be a performance monster!](https://spadebee.com/2021/07/29/snapdragon-898-to-be-a-performance-monster/?utm_source=rss&utm_medium=rss&utm_campaign=snapdragon-898-to-be-a-performance-monster)
 - [Realme blatantly rips off Apple MagSafe technology!](https://spadebee.com/2021/07/28/realme-blatantly-rips-off-apple-magsafe-technology/?utm_source=rss&utm_medium=rss&utm_campaign=realme-blatantly-rips-off-apple-magsafe-technology)
 - [MediaTek to launch bleeding edge 4nm CPUs soon!](https://spadebee.com/2021/07/28/mediatek-to-launch-bleeding-edge-4nm-cpus-soon/?utm_source=rss&utm_medium=rss&utm_campaign=mediatek-to-launch-bleeding-edge-4nm-cpus-soon)
-- [Verdun is free on the Epic Games Store!](https://spadebee.com/2021/07/25/verdun-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=verdun-is-free-on-the-epic-games-store)
 <!-- BLOG-POST-LIST:END -->
