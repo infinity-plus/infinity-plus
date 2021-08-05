@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi’s upcoming Mi Mix 4 to feature bleeding edge tech!](https://spadebee.com/2021/08/05/xiaomis-upcoming-mi-mix-4-to-feature-bleeding-edge-tech/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomis-upcoming-mi-mix-4-to-feature-bleeding-edge-tech)
 - [Samsung and Google have made the ultimate Android smartwatch!](https://spadebee.com/2021/08/04/samsung-and-google-have-made-the-ultimate-android-smartwatch/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-and-google-have-made-the-ultimate-android-smartwatch)
 - [RedmiBook Pro is here with Intel’s latest CPUs!](https://spadebee.com/2021/08/03/redmibook-pro-is-here-with-intels-latest-cpus/?utm_source=rss&utm_medium=rss&utm_campaign=redmibook-pro-is-here-with-intels-latest-cpus)
 - [Google reveals its bleeding edge Pixel 6 and Tensor chips!](https://spadebee.com/2021/08/02/google-reveals-its-bleeding-edge-pixel-6-and-tensor-chips/?utm_source=rss&utm_medium=rss&utm_campaign=google-reveals-its-bleeding-edge-pixel-6-and-tensor-chips)
 - [Mothergunship is free on the Epic Games Store!](https://spadebee.com/2021/07/31/mothergunship-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=mothergunship-is-free-on-the-epic-games-store)
-- [Windows 11 first Beta is officially out! ( Spadebee Exclusive )](https://spadebee.com/2021/07/30/windows-11-first-beta-is-officially-out-spadebee-exclusive/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-first-beta-is-officially-out-spadebee-exclusive)
 <!-- BLOG-POST-LIST:END -->
