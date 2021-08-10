@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Spotify is giving away extra 3 months premium for free!](https://spadebee.com/2021/08/10/spotify-is-giving-away-extra-3-months-premium-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=spotify-is-giving-away-extra-3-months-premium-for-free)
 - [YouTube is testing a new feature that will change the way you navigate videos!](https://spadebee.com/2021/08/09/youtube-is-testing-a-new-feature-that-will-change-the-way-you-navigate-videos/?utm_source=rss&utm_medium=rss&utm_campaign=youtube-is-testing-a-new-feature-that-will-change-the-way-you-navigate-videos)
 - [A Plague Tale is free on the Epic Games Store!](https://spadebee.com/2021/08/08/a-plague-tale-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=a-plague-tale-is-free-on-the-epic-games-store)
 - [Xiaomi’s Mi Mix to feature cutting-edge charging technology!](https://spadebee.com/2021/08/07/xiaomis-mi-mix-to-feature-cutting-edge-charging-technology/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomis-mi-mix-to-feature-cutting-edge-charging-technology)
 - [Windows 11 to feature Spotify in Focus Sessions!](https://spadebee.com/2021/08/06/windows-11-to-feature-spotify-in-focus-sessions/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-to-feature-spotify-in-focus-sessions)
-- [Xiaomi’s upcoming Mi Mix 4 to feature bleeding edge tech!](https://spadebee.com/2021/08/05/xiaomis-upcoming-mi-mix-4-to-feature-bleeding-edge-tech/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomis-upcoming-mi-mix-4-to-feature-bleeding-edge-tech)
 <!-- BLOG-POST-LIST:END -->
