@@ -29,9 +29,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Pixel Buds A-Series launched in India with killer specs!](https://spadebee.com/2021/08/20/google-pixel-buds-a-series-launched-in-india-with-killer-specs/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-buds-a-series-launched-in-india-with-killer-specs)
 - [AMD Zen 4 CPUs to have a whopping 96 cores!](https://spadebee.com/2021/08/19/amd-zen-4-cpus-to-have-a-whopping-96-cores/?utm_source=rss&utm_medium=rss&utm_campaign=amd-zen-4-cpus-to-have-a-whopping-96-cores)
 - [Cyberpunk 2077 gets 1.3 patches and free DLCs!](https://spadebee.com/2021/08/18/cyberpunk-2077-gets-1-3-patches-and-free-dlcs/?utm_source=rss&utm_medium=rss&utm_campaign=cyberpunk-2077-gets-1-3-patches-and-free-dlcs)
 - [Spotify to make your ears drool with HiFi!](https://spadebee.com/2021/08/17/spotify-to-make-your-ears-drool-with-hifi/?utm_source=rss&utm_medium=rss&utm_campaign=spotify-to-make-your-ears-drool-with-hifi)
 - [Intel threatens Nvidia and AMD with their new Gaming GPUs!](https://spadebee.com/2021/08/16/intel-threatens-nvidia-and-amd-with-their-new-gaming-gpus/?utm_source=rss&utm_medium=rss&utm_campaign=intel-threatens-nvidia-and-amd-with-their-new-gaming-gpus)
-- [Fitbit Charge 5 leaks are here, and we are surprised!](https://spadebee.com/2021/08/15/fitbit-charge-5-leaks-are-here-and-we-are-surprised/?utm_source=rss&utm_medium=rss&utm_campaign=fitbit-charge-5-leaks-are-here-and-we-are-surprised)
 <!-- BLOG-POST-LIST:END -->
