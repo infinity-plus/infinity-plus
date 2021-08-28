@@ -18,11 +18,8 @@
     [<img src="https://simpleicons.org/icons/telegram.svg" width="30">](https://t.me/infinitEplus) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     [<img src="https://simpleicons.org/icons/snapchat.svg" width="30">](https://www.snapchat.com/add/plus.infinity) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     [<img src="https://simpleicons.org/icons/gmail.svg" width="30">](mailto:navdhareharsh2001@gmail.com)
-
  
- 
-
-![Harsh's github stats](https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark&include_all_commits=true) [![Harsh's WakaTime Stats](https://github-readme-stats-infinity-plus.vercel.app/api/wakatime?username=infinity_plus&theme=dark&custom_title=Wakatime%20Weekly%20Stats)](https://wakatime.com/@infinity_plus)
+<hr>
 
 <a href="https://github.com/infinity-plus/github-readme-stats">
   <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark&include_all_commits=true", alt="Harsh's github stats" />
@@ -31,6 +28,8 @@
 <a href="https://wakatime.com/@infinity_plus">
   <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api/wakatime?username=infinity_plus&theme=dark&custom_title=Wakatime%20Weekly%20Stats", alt="Harsh's Wakatime Weekly Stats" />
 </a>
+
+<hr>
 
 # Blog posts
 
