@@ -36,9 +36,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Fossil Gen 6 smartwatches are here with amazing upgrades!](https://spadebee.com/2021/08/30/fossil-gen-6-smartwatches-are-here-with-amazing-upgrades/?utm_source=rss&utm_medium=rss&utm_campaign=fossil-gen-6-smartwatches-are-here-with-amazing-upgrades)
 - [Apple to replace iPhone 12 speakers for free!](https://spadebee.com/2021/08/29/apple-to-replace-iphone-12-speakers-for-free/?utm_source=rss&utm_medium=rss&utm_campaign=apple-to-replace-iphone-12-speakers-for-free)
 - [OnePlus is offering free battery replacements for their smartphones!](https://spadebee.com/2021/08/27/oneplus-is-offering-free-battery-replacements-for-their-smartphones/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-is-offering-free-battery-replacements-for-their-smartphones)
 - [Saints Row Remastered is free on the Epic Games Store!](https://spadebee.com/2021/08/26/saints-row-remastered-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=saints-row-remastered-is-free-on-the-epic-games-store)
 - [Your Mac and iPhones will soon run Android apps and games!](https://spadebee.com/2021/08/24/your-mac-and-iphones-will-soon-run-android-apps-and-games/?utm_source=rss&utm_medium=rss&utm_campaign=your-mac-and-iphones-will-soon-run-android-apps-and-games)
-- [Xiaomi teases their new “All rounder” Redmi 10 Prime!](https://spadebee.com/2021/08/23/xiaomi-teases-their-new-all-rounder-redmi-10-prime/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomi-teases-their-new-all-rounder-redmi-10-prime)
 <!-- BLOG-POST-LIST:END -->
