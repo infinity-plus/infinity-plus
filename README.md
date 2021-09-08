@@ -36,9 +36,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Your smartphone won’t need a battery anymore!](https://spadebee.com/2021/09/08/your-smartphone-wont-need-a-battery-anymore/?utm_source=rss&utm_medium=rss&utm_campaign=your-smartphone-wont-need-a-battery-anymore)
 - [Far Cry 3 is available for free on the Ubisoft Store!](https://spadebee.com/2021/09/07/far-cry-3-is-available-for-free-on-the-ubisoft-store/?utm_source=rss&utm_medium=rss&utm_campaign=far-cry-3-is-available-for-free-on-the-ubisoft-store)
 - [Twitter will allow people to accept Crypto donations!](https://spadebee.com/2021/09/05/twitter-will-allow-people-to-accept-crypto-donations/?utm_source=rss&utm_medium=rss&utm_campaign=twitter-will-allow-people-to-accept-crypto-donations)
 - [Xbox consoles and your PC will make your phone obsolete! ( Spadebee Exclusive )](https://spadebee.com/2021/09/03/xbox-consoles-and-your-pc-will-make-your-phone-obsolete-spadebee-exclusive/?utm_source=rss&utm_medium=rss&utm_campaign=xbox-consoles-and-your-pc-will-make-your-phone-obsolete-spadebee-exclusive)
 - [Android Smartwatches are getting cameras and insane upgrades!](https://spadebee.com/2021/09/02/android-smartwatches-are-getting-cameras-and-insane-upgrades/?utm_source=rss&utm_medium=rss&utm_campaign=android-smartwatches-are-getting-cameras-and-insane-upgrades)
-- [OnePlus tipped to be working on a lite version of the Buds Pro!](https://spadebee.com/2021/08/31/oneplus-tipped-to-be-working-on-a-lite-version-of-the-buds-pro/?utm_source=rss&utm_medium=rss&utm_campaign=oneplus-tipped-to-be-working-on-a-lite-version-of-the-buds-pro)
 <!-- BLOG-POST-LIST:END -->
