@@ -36,9 +36,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel and Samsung to transform the PC world completely!](https://spadebee.com/2021/09/12/intel-and-samsung-to-transform-the-pc-world-completely/?utm_source=rss&utm_medium=rss&utm_campaign=intel-and-samsung-to-transform-the-pc-world-completely)
+- [Nioh: The Complete Edition is free on the Epic Games Store!](https://spadebee.com/2021/09/11/nioh-the-complete-edition-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=nioh-the-complete-edition-is-free-on-the-epic-games-store)
 - [Apple looses to Epic in lawsuit, Fortnite to come back on iPhones!](https://spadebee.com/2021/09/10/apple-looses-to-epic-in-lawsuit-fortnite-to-come-back-on-iphones/?utm_source=rss&utm_medium=rss&utm_campaign=apple-looses-to-epic-in-lawsuit-fortnite-to-come-back-on-iphones)
 - [Your smartphone won’t need a battery anymore!](https://spadebee.com/2021/09/08/your-smartphone-wont-need-a-battery-anymore/?utm_source=rss&utm_medium=rss&utm_campaign=your-smartphone-wont-need-a-battery-anymore)
 - [Far Cry 3 is available for free on the Ubisoft Store!](https://spadebee.com/2021/09/07/far-cry-3-is-available-for-free-on-the-ubisoft-store/?utm_source=rss&utm_medium=rss&utm_campaign=far-cry-3-is-available-for-free-on-the-ubisoft-store)
-- [Twitter will allow people to accept Crypto donations!](https://spadebee.com/2021/09/05/twitter-will-allow-people-to-accept-crypto-donations/?utm_source=rss&utm_medium=rss&utm_campaign=twitter-will-allow-people-to-accept-crypto-donations)
-- [Xbox consoles and your PC will make your phone obsolete! ( Spadebee Exclusive )](https://spadebee.com/2021/09/03/xbox-consoles-and-your-pc-will-make-your-phone-obsolete-spadebee-exclusive/?utm_source=rss&utm_medium=rss&utm_campaign=xbox-consoles-and-your-pc-will-make-your-phone-obsolete-spadebee-exclusive)
 <!-- BLOG-POST-LIST:END -->
