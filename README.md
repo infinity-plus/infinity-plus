@@ -36,9 +36,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Krafton adds insane new features in BGMI!](https://spadebee.com/2021/09/15/krafton-adds-insane-new-features-in-bgmi/?utm_source=rss&utm_medium=rss&utm_campaign=krafton-adds-insane-new-features-in-bgmi)
 - [Google faces severe penalty and backlash in South Korea!](https://spadebee.com/2021/09/14/google-faces-severe-penalty-and-backlash-in-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=google-faces-severe-penalty-and-backlash-in-south-korea)
 - [Intel and Samsung to transform the PC world completely!](https://spadebee.com/2021/09/12/intel-and-samsung-to-transform-the-pc-world-completely/?utm_source=rss&utm_medium=rss&utm_campaign=intel-and-samsung-to-transform-the-pc-world-completely)
 - [Nioh: The Complete Edition is free on the Epic Games Store!](https://spadebee.com/2021/09/11/nioh-the-complete-edition-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=nioh-the-complete-edition-is-free-on-the-epic-games-store)
 - [Apple looses to Epic in lawsuit, Fortnite to come back on iPhones!](https://spadebee.com/2021/09/10/apple-looses-to-epic-in-lawsuit-fortnite-to-come-back-on-iphones/?utm_source=rss&utm_medium=rss&utm_campaign=apple-looses-to-epic-in-lawsuit-fortnite-to-come-back-on-iphones)
-- [Your smartphone won’t need a battery anymore!](https://spadebee.com/2021/09/08/your-smartphone-wont-need-a-battery-anymore/?utm_source=rss&utm_medium=rss&utm_campaign=your-smartphone-wont-need-a-battery-anymore)
 <!-- BLOG-POST-LIST:END -->
