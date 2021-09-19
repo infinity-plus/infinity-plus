@@ -36,9 +36,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Pixel 6 series to have the feature we all love!](https://spadebee.com/2021/09/19/google-pixel-6-series-to-have-the-feature-we-all-love/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-6-series-to-have-the-feature-we-all-love)
 - [Speed Brawl is free on the Epic Games Store!](https://spadebee.com/2021/09/18/speed-brawl-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=speed-brawl-is-free-on-the-epic-games-store)
 - [Fitbit rolls out “Snore and Noise” detection to its smartwatches!](https://spadebee.com/2021/09/16/fitbit-rolls-out-snore-and-noise-detection-to-its-smartwatches/?utm_source=rss&utm_medium=rss&utm_campaign=fitbit-rolls-out-snore-and-noise-detection-to-its-smartwatches)
 - [Krafton adds insane new features in BGMI!](https://spadebee.com/2021/09/15/krafton-adds-insane-new-features-in-bgmi/?utm_source=rss&utm_medium=rss&utm_campaign=krafton-adds-insane-new-features-in-bgmi)
 - [Google faces severe penalty and backlash in South Korea!](https://spadebee.com/2021/09/14/google-faces-severe-penalty-and-backlash-in-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=google-faces-severe-penalty-and-backlash-in-south-korea)
-- [Intel and Samsung to transform the PC world completely!](https://spadebee.com/2021/09/12/intel-and-samsung-to-transform-the-pc-world-completely/?utm_source=rss&utm_medium=rss&utm_campaign=intel-and-samsung-to-transform-the-pc-world-completely)
 <!-- BLOG-POST-LIST:END -->
