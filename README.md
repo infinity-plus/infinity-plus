@@ -36,9 +36,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple will finally make MacBooks even better!](https://spadebee.com/2021/09/25/apple-will-finally-make-macbooks-even-better/?utm_source=rss&utm_medium=rss&utm_campaign=apple-will-finally-make-macbooks-even-better)
 - [iPhones to be revolutionized by the EU!](https://spadebee.com/2021/09/23/iphones-to-be-revolutionized-by-the-eu/?utm_source=rss&utm_medium=rss&utm_campaign=iphones-to-be-revolutionized-by-the-eu)
 - [Microsoft has dropped all new hardware at their Surface event!](https://spadebee.com/2021/09/22/microsoft-has-dropped-all-new-hardware-at-their-surface-event/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-has-dropped-all-new-hardware-at-their-surface-event)
 - [Netflix has launched a free plan, watch your favorite shows without paying a dime!](https://spadebee.com/2021/09/21/netflix-has-launched-a-free-plan-watch-your-favorite-shows-without-paying-a-dime/?utm_source=rss&utm_medium=rss&utm_campaign=netflix-has-launched-a-free-plan-watch-your-favorite-shows-without-paying-a-dime)
 - [Google Pixel 6 series to have the feature we all love!](https://spadebee.com/2021/09/19/google-pixel-6-series-to-have-the-feature-we-all-love/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-6-series-to-have-the-feature-we-all-love)
-- [Speed Brawl is free on the Epic Games Store!](https://spadebee.com/2021/09/18/speed-brawl-is-free-on-the-epic-games-store/?utm_source=rss&utm_medium=rss&utm_campaign=speed-brawl-is-free-on-the-epic-games-store)
 <!-- BLOG-POST-LIST:END -->
