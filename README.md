@@ -2,9 +2,8 @@
 
 > I am Harsh Navdhare, from India :india: . Welcome to my :octocat: profile.
 
-* 🔭 I’m currently working on [YAIF Group Management Bot](https://github.com/YAIFoundation/YAR_Manager_Bot)
-* 🌱 I’m currently learning DJango.
-* 🤔 I’m looking for help with Frontend Web Development.
+* 🔭 I’m currently working on [Free-Your-Data Hackathon](https://free-your-data.devfolio.co/).
+* 🌱 I’m currently learning fastAPI.                
 * 💬 Ask me about Python, C, C++, Bash
 * 😄 Pronouns: He/Him
 * ⚡ Fun fact: I can beatbox : P
