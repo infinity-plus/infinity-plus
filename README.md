@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [WhatsApp, Instagram and Facebook are globally down!](https://spadebee.com/2021/10/04/whatsapp-instagram-and-facebook-are-globally-down/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-instagram-and-facebook-are-globally-down)
 - [You can now play Android games for free anywhere in the world!](https://spadebee.com/2021/10/01/you-can-now-play-android-games-for-free-anywhere-in-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-now-play-android-games-for-free-anywhere-in-the-world)
 - [Intel Alchemist GPUs to be killer budget gaming options!](https://spadebee.com/2021/09/30/intel-alchemist-gpus-to-be-killer-budget-gaming-options/?utm_source=rss&utm_medium=rss&utm_campaign=intel-alchemist-gpus-to-be-killer-budget-gaming-options)
 - [Apple will finally make MacBooks even better!](https://spadebee.com/2021/09/25/apple-will-finally-make-macbooks-even-better/?utm_source=rss&utm_medium=rss&utm_campaign=apple-will-finally-make-macbooks-even-better)
 - [iPhones to be revolutionized by the EU!](https://spadebee.com/2021/09/23/iphones-to-be-revolutionized-by-the-eu/?utm_source=rss&utm_medium=rss&utm_campaign=iphones-to-be-revolutionized-by-the-eu)
-- [Microsoft has dropped all new hardware at their Surface event!](https://spadebee.com/2021/09/22/microsoft-has-dropped-all-new-hardware-at-their-surface-event/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-has-dropped-all-new-hardware-at-their-surface-event)
 <!-- BLOG-POST-LIST:END -->
