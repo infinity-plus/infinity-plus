@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Redmi Note 11 Pro could do full battery charge in a few minutes!](https://spadebee.com/2021/10/08/redmi-note-11-pro-could-do-full-battery-charge-in-a-few-minutes/?utm_source=rss&utm_medium=rss&utm_campaign=redmi-note-11-pro-could-do-full-battery-charge-in-a-few-minutes)
 - [Windows 11 faces a huge bug at its launch!](https://spadebee.com/2021/10/06/windows-11-faces-a-huge-bug-at-its-launch/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-faces-a-huge-bug-at-its-launch)
 - [Far Cry 6 to run horribly on your shiny new PCs!](https://spadebee.com/2021/10/05/far-cry-6-to-run-horribly-on-your-shiny-new-pcs/?utm_source=rss&utm_medium=rss&utm_campaign=far-cry-6-to-run-horribly-on-your-shiny-new-pcs)
 - [WhatsApp, Instagram and Facebook are globally down!](https://spadebee.com/2021/10/04/whatsapp-instagram-and-facebook-are-globally-down/?utm_source=rss&utm_medium=rss&utm_campaign=whatsapp-instagram-and-facebook-are-globally-down)
 - [You can now play Android games for free anywhere in the world!](https://spadebee.com/2021/10/01/you-can-now-play-android-games-for-free-anywhere-in-the-world/?utm_source=rss&utm_medium=rss&utm_campaign=you-can-now-play-android-games-for-free-anywhere-in-the-world)
-- [Intel Alchemist GPUs to be killer budget gaming options!](https://spadebee.com/2021/09/30/intel-alchemist-gpus-to-be-killer-budget-gaming-options/?utm_source=rss&utm_medium=rss&utm_campaign=intel-alchemist-gpus-to-be-killer-budget-gaming-options)
 <!-- BLOG-POST-LIST:END -->
