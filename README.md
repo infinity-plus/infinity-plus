@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [NVIDIA GPUs get insane performance boost with new update!](https://spadebee.com/2021/10/12/nvidia-gpus-get-insane-performance-boost-with-new-update/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-gpus-get-insane-performance-boost-with-new-update)
 - [NVIDIA to launch a new GPU that will blow others out of the water!](https://spadebee.com/2021/10/10/nvidia-to-launch-a-new-gpu-that-will-blow-others-out-of-the-water/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-to-launch-a-new-gpu-that-will-blow-others-out-of-the-water)
 - [Rockstar Games to refresh older GTA games with amazing graphics!](https://spadebee.com/2021/10/09/rockstar-games-to-refresh-older-gta-games-with-amazing-graphics/?utm_source=rss&utm_medium=rss&utm_campaign=rockstar-games-to-refresh-older-gta-games-with-amazing-graphics)
 - [Redmi Note 11 Pro could do full battery charge in a few minutes!](https://spadebee.com/2021/10/08/redmi-note-11-pro-could-do-full-battery-charge-in-a-few-minutes/?utm_source=rss&utm_medium=rss&utm_campaign=redmi-note-11-pro-could-do-full-battery-charge-in-a-few-minutes)
 - [Windows 11 faces a huge bug at its launch!](https://spadebee.com/2021/10/06/windows-11-faces-a-huge-bug-at-its-launch/?utm_source=rss&utm_medium=rss&utm_campaign=windows-11-faces-a-huge-bug-at-its-launch)
-- [Far Cry 6 to run horribly on your shiny new PCs!](https://spadebee.com/2021/10/05/far-cry-6-to-run-horribly-on-your-shiny-new-pcs/?utm_source=rss&utm_medium=rss&utm_campaign=far-cry-6-to-run-horribly-on-your-shiny-new-pcs)
 <!-- BLOG-POST-LIST:END -->
