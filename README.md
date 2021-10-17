@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel’s CPUs to become nightmare for gamers!](https://spadebee.com/2021/10/17/intels-cpus-to-become-nightmare-for-gamers/?utm_source=rss&utm_medium=rss&utm_campaign=intels-cpus-to-become-nightmare-for-gamers)
 - [EU denies Apple’s new “Innovations”!](https://spadebee.com/2021/10/15/eu-denies-apples-new-innovations/?utm_source=rss&utm_medium=rss&utm_campaign=eu-denies-apples-new-innovations)
 - [NVIDIA GPUs get insane performance boost with new update!](https://spadebee.com/2021/10/12/nvidia-gpus-get-insane-performance-boost-with-new-update/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-gpus-get-insane-performance-boost-with-new-update)
 - [NVIDIA to launch a new GPU that will blow others out of the water!](https://spadebee.com/2021/10/10/nvidia-to-launch-a-new-gpu-that-will-blow-others-out-of-the-water/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-to-launch-a-new-gpu-that-will-blow-others-out-of-the-water)
 - [Rockstar Games to refresh older GTA games with amazing graphics!](https://spadebee.com/2021/10/09/rockstar-games-to-refresh-older-gta-games-with-amazing-graphics/?utm_source=rss&utm_medium=rss&utm_campaign=rockstar-games-to-refresh-older-gta-games-with-amazing-graphics)
-- [Redmi Note 11 Pro could do full battery charge in a few minutes!](https://spadebee.com/2021/10/08/redmi-note-11-pro-could-do-full-battery-charge-in-a-few-minutes/?utm_source=rss&utm_medium=rss&utm_campaign=redmi-note-11-pro-could-do-full-battery-charge-in-a-few-minutes)
 <!-- BLOG-POST-LIST:END -->
