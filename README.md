@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Chinese hackers hack iPhone 13 in just 15 seconds!](https://spadebee.com/2021/10/22/chinese-hackers-hack-iphone-13-in-just-15-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-hackers-hack-iphone-13-in-just-15-seconds)
 - [Your PC can now run your smartphone apps, courtesy of Windows!](https://spadebee.com/2021/10/21/your-pc-can-now-run-your-smartphone-apps-courtesy-of-windows/?utm_source=rss&utm_medium=rss&utm_campaign=your-pc-can-now-run-your-smartphone-apps-courtesy-of-windows)
 - [Google Pixel 6 is here with out of the world specs!](https://spadebee.com/2021/10/19/google-pixel-6-is-here-with-out-of-the-world-specs/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-6-is-here-with-out-of-the-world-specs)
 - [Intel’s CPUs to become nightmare for gamers!](https://spadebee.com/2021/10/17/intels-cpus-to-become-nightmare-for-gamers/?utm_source=rss&utm_medium=rss&utm_campaign=intels-cpus-to-become-nightmare-for-gamers)
 - [EU denies Apple’s new “Innovations”!](https://spadebee.com/2021/10/15/eu-denies-apples-new-innovations/?utm_source=rss&utm_medium=rss&utm_campaign=eu-denies-apples-new-innovations)
-- [NVIDIA GPUs get insane performance boost with new update!](https://spadebee.com/2021/10/12/nvidia-gpus-get-insane-performance-boost-with-new-update/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-gpus-get-insane-performance-boost-with-new-update)
 <!-- BLOG-POST-LIST:END -->
