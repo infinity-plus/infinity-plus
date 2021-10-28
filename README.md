@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel’s new 12th Gen CPUs bring a revolution!](https://spadebee.com/2021/10/28/intels-new-12th-gen-cpus-bring-a-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=intels-new-12th-gen-cpus-bring-a-revolution)
 - [Apple’s M1 GPU blows expensive GPUs out of the water!](https://spadebee.com/2021/10/25/apples-m1-gpu-blows-expensive-gpus-out-of-the-water/?utm_source=rss&utm_medium=rss&utm_campaign=apples-m1-gpu-blows-expensive-gpus-out-of-the-water)
 - [Google Pixel devices are lagging with Android 12 update!](https://spadebee.com/2021/10/23/google-pixel-devices-are-lagging-with-android-12-update/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-devices-are-lagging-with-android-12-update)
 - [Chinese hackers hack iPhone 13 in just 15 seconds!](https://spadebee.com/2021/10/22/chinese-hackers-hack-iphone-13-in-just-15-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-hackers-hack-iphone-13-in-just-15-seconds)
 - [Your PC can now run your smartphone apps, courtesy of Windows!](https://spadebee.com/2021/10/21/your-pc-can-now-run-your-smartphone-apps-courtesy-of-windows/?utm_source=rss&utm_medium=rss&utm_campaign=your-pc-can-now-run-your-smartphone-apps-courtesy-of-windows)
-- [Google Pixel 6 is here with out of the world specs!](https://spadebee.com/2021/10/19/google-pixel-6-is-here-with-out-of-the-world-specs/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-6-is-here-with-out-of-the-world-specs)
 <!-- BLOG-POST-LIST:END -->
