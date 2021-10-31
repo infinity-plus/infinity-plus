@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Redmi Smart Band Pro: The king of all?](https://spadebee.com/2021/10/31/redmi-smart-band-pro-the-king-of-all/?utm_source=rss&utm_medium=rss&utm_campaign=redmi-smart-band-pro-the-king-of-all)
 - [Intel’s new 12th Gen CPUs bring a revolution!](https://spadebee.com/2021/10/28/intels-new-12th-gen-cpus-bring-a-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=intels-new-12th-gen-cpus-bring-a-revolution)
 - [Apple’s M1 GPU blows expensive GPUs out of the water!](https://spadebee.com/2021/10/25/apples-m1-gpu-blows-expensive-gpus-out-of-the-water/?utm_source=rss&utm_medium=rss&utm_campaign=apples-m1-gpu-blows-expensive-gpus-out-of-the-water)
 - [Google Pixel devices are lagging with Android 12 update!](https://spadebee.com/2021/10/23/google-pixel-devices-are-lagging-with-android-12-update/?utm_source=rss&utm_medium=rss&utm_campaign=google-pixel-devices-are-lagging-with-android-12-update)
 - [Chinese hackers hack iPhone 13 in just 15 seconds!](https://spadebee.com/2021/10/22/chinese-hackers-hack-iphone-13-in-just-15-seconds/?utm_source=rss&utm_medium=rss&utm_campaign=chinese-hackers-hack-iphone-13-in-just-15-seconds)
-- [Your PC can now run your smartphone apps, courtesy of Windows!](https://spadebee.com/2021/10/21/your-pc-can-now-run-your-smartphone-apps-courtesy-of-windows/?utm_source=rss&utm_medium=rss&utm_campaign=your-pc-can-now-run-your-smartphone-apps-courtesy-of-windows)
 <!-- BLOG-POST-LIST:END -->
