@@ -35,9 +35,9 @@
 ![Latest blog post workflow](https://github.com/infinity-plus/infinity-plus/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 <!-- BLOG-POST-LIST:START -->
+- [Genesis Crystal giveaway in Genshin!](https://spadebee.com/2021/11/28/genesis-crystal-giveaway-in-genshin/?utm_source=rss&utm_medium=rss&utm_campaign=genesis-crystal-giveaway-in-genshin)
 - [Google finally explains why their new Pixels have a bug](https://spadebee.com/2021/11/08/google-finally-explains-why-their-new-pixels-have-a-bug/?utm_source=rss&utm_medium=rss&utm_campaign=google-finally-explains-why-their-new-pixels-have-a-bug)
 - [Xiaomi introduces new cooling tech to revolutionize smartphones](https://spadebee.com/2021/11/05/xiaomi-introduces-new-cooling-tech-to-revolutionize-smartphones/?utm_source=rss&utm_medium=rss&utm_campaign=xiaomi-introduces-new-cooling-tech-to-revolutionize-smartphones)
 - [Zoom will now force ads upon everyone!](https://spadebee.com/2021/11/02/zoom-will-now-force-ads-upon-everyone/?utm_source=rss&utm_medium=rss&utm_campaign=zoom-will-now-force-ads-upon-everyone)
 - [Redmi Smart Band Pro: The king of all?](https://spadebee.com/2021/10/31/redmi-smart-band-pro-the-king-of-all/?utm_source=rss&utm_medium=rss&utm_campaign=redmi-smart-band-pro-the-king-of-all)
-- [Intel’s new 12th Gen CPUs bring a revolution!](https://spadebee.com/2021/10/28/intels-new-12th-gen-cpus-bring-a-revolution/?utm_source=rss&utm_medium=rss&utm_campaign=intels-new-12th-gen-cpus-bring-a-revolution)
 <!-- BLOG-POST-LIST:END -->
