@@ -2,6 +2,7 @@
 
 > I am Harsh Navdhare, from India :india: . Welcome to my :octocat: profile.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=infinity-plus&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
 
 * 💬 Ask me about Python, C, C++, Bash, Java
 * 😄 Pronouns: He/Him
