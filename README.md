@@ -10,8 +10,6 @@ I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 
 ![Python](https://img.shields.io/badge/Python-4A4A55?style=for-the-badge&logo=Python&logoColor=#3776AB "Python")    ![DJango](https://img.shields.io/badge/Django-4A4A55?style=for-the-badge&logo=django&logoColor=092E20 "DJango")    ![FastAPI](https://img.shields.io/badge/FastAPI-4A4A55?style=for-the-badge&logo=fastapi&logoColor=009688 "FastAPI")    ![Rust](https://img.shields.io/badge/Rust-4A4A55?style=for-the-badge&logo=rust&logoColor=000000 "Rust")
 
-
-
 <a href="https://github.com/infinity-plus/github-readme-stats">
   <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark&bg_color=00000000", alt="Harsh's github stats" />
 </a>  <a href="https://wakatime.com/@infinity_plus">
@@ -19,3 +17,8 @@ I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 </a>
 
 <hr>
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
