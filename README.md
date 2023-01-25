@@ -1,31 +1,21 @@
 ### Hi there 👋
 
-> I am Harsh Navdhare, from India :india: . Welcome to my :octocat: profile.
+I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=infinity-plus&theme=monokai&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)<br>
+> **I use**
 
-* 💬 Ask me about Python, C, C++, Bash, Java
-* 😄 Pronouns: He/Him
-* ⚡ Fun fact: I can beatbox : P
-* 📫 Reach me at: 
- 
+![Windows](https://img.shields.io/badge/Windows-4A4A55?style=for-the-badge&logo=windows11&logoColor=0078D4 "Windows 11")    ![WSL](https://img.shields.io/badge/WSL-4A4A55?style=for-the-badge&logo=ubuntu&logoColor=E95420)
 
-    [<img src="https://simpleicons.org/icons/instagram.svg" width="30">](https://www.instagram.com/plus_infinity.hn) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [<img src="https://simpleicons.org/icons/facebook.svg" width="30">](https://www.facebook.com/harsh.navdhare.infinity) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    [<img src="https://simpleicons.org/icons/twitter.svg" width="30">](https://twitter.com/hnavdhare) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    [<img src="https://simpleicons.org/icons/xdadevelopers.svg" width="30">](https://forum.xda-developers.com/member.php?u=8122486) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    [<img src="https://simpleicons.org/icons/telegram.svg" width="30">](https://t.me/infinitEplus) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    [<img src="https://simpleicons.org/icons/snapchat.svg" width="30">](https://www.snapchat.com/add/plus.infinity) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    [<img src="https://simpleicons.org/icons/gmail.svg" width="30">](mailto:navdhareharsh2001@gmail.com)
- 
-<hr>
+![VSCode](https://img.shields.io/badge/VSCode-4A4A55?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC "Visual Studio Code")
+
+![Python](https://img.shields.io/badge/Python-4A4A55?style=for-the-badge&logo=Python&logoColor=#3776AB "Python")    ![DJango](https://img.shields.io/badge/Django-4A4A55?style=for-the-badge&logo=django&logoColor=092E20 "DJango")    ![FastAPI](https://img.shields.io/badge/FastAPI-4A4A55?style=for-the-badge&logo=fastapi&logoColor=009688 "FastAPI")    ![Rust](https://img.shields.io/badge/Rust-4A4A55?style=for-the-badge&logo=rust&logoColor=000000 "Rust")
+
+
 
 <a href="https://github.com/infinity-plus/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark&include_all_commits=true", alt="Harsh's github stats" />
-</a>
-
-<a href="https://wakatime.com/@infinity_plus">
-  <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api/wakatime?username=infinity_plus&theme=dark&custom_title=Wakatime%20Weekly%20Stats", alt="Harsh's Wakatime Weekly Stats" />
+  <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark&bg_color=00000000", alt="Harsh's github stats" />
+</a>  <a href="https://wakatime.com/@infinity_plus">
+  <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api/wakatime?username=infinity_plus&theme=dark&custom_title=Wakatime%20Weekly%20Stats&bg_color=00000000&layout=compact", alt="Harsh's Wakatime Weekly Stats" />
 </a>
 
 <hr>
