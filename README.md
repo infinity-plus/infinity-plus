@@ -24,14 +24,14 @@ I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/infinity-plus/github-readme-stats/pull/81) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
-2. 🎉 Merged PR [#80](https://github.com/infinity-plus/github-readme-stats/pull/80) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
-3. 💪 Opened PR [#11](https://github.com/TerrenceTingleberry/blackpearlbot/pull/11) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
-4. 🎉 Merged PR [#1](https://github.com/ProjectBlackPearl/wiki/pull/1) in [ProjectBlackPearl/wiki](https://github.com/ProjectBlackPearl/wiki)
-5. 💪 Opened PR [#1](https://github.com/ProjectBlackPearl/wiki/pull/1) in [ProjectBlackPearl/wiki](https://github.com/ProjectBlackPearl/wiki)
-6. 💪 Opened PR [#5](https://github.com/TerrenceTingleberry/blackpearlbot/pull/5) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
-7. 🎉 Merged PR [#79](https://github.com/infinity-plus/github-readme-stats/pull/79) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
-8. 🎉 Merged PR [#4](https://github.com/TerrenceTingleberry/blackpearlbot/pull/4) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
-9. 💪 Opened PR [#4](https://github.com/TerrenceTingleberry/blackpearlbot/pull/4) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
-10. 🎉 Merged PR [#3](https://github.com/TerrenceTingleberry/blackpearlbot/pull/3) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
+1. 🗣 Commented on [#6](https://github.com/ProjectBlackPearl/project_black_pearl/issues/6) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+2. 🎉 Merged PR [#81](https://github.com/infinity-plus/github-readme-stats/pull/81) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
+3. 🎉 Merged PR [#80](https://github.com/infinity-plus/github-readme-stats/pull/80) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
+4. 💪 Opened PR [#11](https://github.com/TerrenceTingleberry/blackpearlbot/pull/11) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
+5. 🎉 Merged PR [#1](https://github.com/ProjectBlackPearl/wiki/pull/1) in [ProjectBlackPearl/wiki](https://github.com/ProjectBlackPearl/wiki)
+6. 💪 Opened PR [#1](https://github.com/ProjectBlackPearl/wiki/pull/1) in [ProjectBlackPearl/wiki](https://github.com/ProjectBlackPearl/wiki)
+7. 💪 Opened PR [#5](https://github.com/TerrenceTingleberry/blackpearlbot/pull/5) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
+8. 🎉 Merged PR [#79](https://github.com/infinity-plus/github-readme-stats/pull/79) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
+9. 🎉 Merged PR [#4](https://github.com/TerrenceTingleberry/blackpearlbot/pull/4) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
+10. 💪 Opened PR [#4](https://github.com/TerrenceTingleberry/blackpearlbot/pull/4) in [TerrenceTingleberry/blackpearlbot](https://github.com/TerrenceTingleberry/blackpearlbot)
 <!--END_SECTION:activity-->
