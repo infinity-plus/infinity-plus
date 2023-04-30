@@ -24,14 +24,14 @@ I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/infinity-plus/github-readme-stats/pull/84) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
-2. 🗣 Commented on [#42](https://github.com/ProjectBlackPearl/project_black_pearl/issues/42) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+1. 🎉 Merged PR [#85](https://github.com/infinity-plus/github-readme-stats/pull/85) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
+2. 🎉 Merged PR [#84](https://github.com/infinity-plus/github-readme-stats/pull/84) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
 3. 🗣 Commented on [#42](https://github.com/ProjectBlackPearl/project_black_pearl/issues/42) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
 4. 🗣 Commented on [#42](https://github.com/ProjectBlackPearl/project_black_pearl/issues/42) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
 5. 🗣 Commented on [#42](https://github.com/ProjectBlackPearl/project_black_pearl/issues/42) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-6. ❗️ Opened issue [#42](https://github.com/ProjectBlackPearl/project_black_pearl/issues/42) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-7. ❗️ Closed issue [#19](https://github.com/ProjectBlackPearl/project_black_pearl/issues/19) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-8. 🗣 Commented on [#19](https://github.com/ProjectBlackPearl/project_black_pearl/issues/19) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-9. ❗️ Opened issue [#41](https://github.com/ProjectBlackPearl/project_black_pearl/issues/41) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-10. 🎉 Merged PR [#40](https://github.com/ProjectBlackPearl/project_black_pearl/pull/40) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+6. 🗣 Commented on [#42](https://github.com/ProjectBlackPearl/project_black_pearl/issues/42) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+7. ❗️ Opened issue [#42](https://github.com/ProjectBlackPearl/project_black_pearl/issues/42) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+8. ❗️ Closed issue [#19](https://github.com/ProjectBlackPearl/project_black_pearl/issues/19) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+9. 🗣 Commented on [#19](https://github.com/ProjectBlackPearl/project_black_pearl/issues/19) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+10. ❗️ Opened issue [#41](https://github.com/ProjectBlackPearl/project_black_pearl/issues/41) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
 <!--END_SECTION:activity-->
