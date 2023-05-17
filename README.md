@@ -12,7 +12,7 @@ I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 
 <p align="center>
 <a href="https://github.com/infinity-plus/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark&bg_color=00000000", alt="Harsh's github stats" />
+  <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api?username=infinity-plus&show_icons=true&count_private=true&theme=dark&bg_color=00000000&card_width=495", alt="Harsh's github stats" />
 </a>
 <a href="https://wakatime.com/@infinity_plus">
   <img align="center" src="https://github-readme-stats-infinity-plus.vercel.app/api/wakatime?username=infinity_plus&theme=dark&custom_title=Wakatime%20Weekly%20Stats&bg_color=00000000&range=last_7_days", alt="Harsh's Wakatime Weekly Stats" />
