@@ -24,14 +24,14 @@ I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/BlackPearlOrigin/blackpearlorigin/pull/6) in [BlackPearlOrigin/blackpearlorigin](https://github.com/BlackPearlOrigin/blackpearlorigin)
-2. 🎉 Merged PR [#49](https://github.com/ProjectBlackPearl/project_black_pearl/pull/49) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-3. 🎉 Merged PR [#2](https://github.com/ProjectBlackPearl/pbp_updater_test/pull/2) in [ProjectBlackPearl/pbp_updater_test](https://github.com/ProjectBlackPearl/pbp_updater_test)
-4. 🎉 Merged PR [#1](https://github.com/ProjectBlackPearl/pbp_updater_test/pull/1) in [ProjectBlackPearl/pbp_updater_test](https://github.com/ProjectBlackPearl/pbp_updater_test)
-5. 🗣 Commented on [#48](https://github.com/ProjectBlackPearl/project_black_pearl/issues/48) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-6. 🗣 Commented on [#48](https://github.com/ProjectBlackPearl/project_black_pearl/issues/48) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
-7. 💪 Opened PR [#14](https://github.com/infinity-plus/telegram_quiz_bot/pull/14) in [infinity-plus/telegram_quiz_bot](https://github.com/infinity-plus/telegram_quiz_bot)
-8. 🎉 Merged PR [#87](https://github.com/infinity-plus/github-readme-stats/pull/87) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
-9. 🎉 Merged PR [#86](https://github.com/infinity-plus/github-readme-stats/pull/86) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
-10. 🎉 Merged PR [#43](https://github.com/ProjectBlackPearl/project_black_pearl/pull/43) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+1. 🎉 Merged PR [#10](https://github.com/BlackPearlOrigin/blackpearlorigin/pull/10) in [BlackPearlOrigin/blackpearlorigin](https://github.com/BlackPearlOrigin/blackpearlorigin)
+2. 🎉 Merged PR [#9](https://github.com/BlackPearlOrigin/blackpearlorigin/pull/9) in [BlackPearlOrigin/blackpearlorigin](https://github.com/BlackPearlOrigin/blackpearlorigin)
+3. 🎉 Merged PR [#6](https://github.com/BlackPearlOrigin/blackpearlorigin/pull/6) in [BlackPearlOrigin/blackpearlorigin](https://github.com/BlackPearlOrigin/blackpearlorigin)
+4. 🎉 Merged PR [#49](https://github.com/ProjectBlackPearl/project_black_pearl/pull/49) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+5. 🎉 Merged PR [#2](https://github.com/ProjectBlackPearl/pbp_updater_test/pull/2) in [ProjectBlackPearl/pbp_updater_test](https://github.com/ProjectBlackPearl/pbp_updater_test)
+6. 🎉 Merged PR [#1](https://github.com/ProjectBlackPearl/pbp_updater_test/pull/1) in [ProjectBlackPearl/pbp_updater_test](https://github.com/ProjectBlackPearl/pbp_updater_test)
+7. 🗣 Commented on [#48](https://github.com/ProjectBlackPearl/project_black_pearl/issues/48) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+8. 🗣 Commented on [#48](https://github.com/ProjectBlackPearl/project_black_pearl/issues/48) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
+9. 💪 Opened PR [#14](https://github.com/infinity-plus/telegram_quiz_bot/pull/14) in [infinity-plus/telegram_quiz_bot](https://github.com/infinity-plus/telegram_quiz_bot)
+10. 🎉 Merged PR [#87](https://github.com/infinity-plus/github-readme-stats/pull/87) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
 <!--END_SECTION:activity-->
