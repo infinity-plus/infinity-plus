@@ -24,9 +24,9 @@ I am Harsh Navdhare (he/him), from India. Welcome to my :octocat: profile.
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#89](https://github.com/infinity-plus/github-readme-stats/pull/89) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
-2. 💪 Opened PR [#16](https://github.com/infinity-plus/telegram_quiz_bot/pull/16) in [infinity-plus/telegram_quiz_bot](https://github.com/infinity-plus/telegram_quiz_bot)
-3. 🎉 Merged PR [#88](https://github.com/infinity-plus/github-readme-stats/pull/88) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
+1. 💪 Opened PR [#17](https://github.com/infinity-plus/telegram_quiz_bot/pull/17) in [infinity-plus/telegram_quiz_bot](https://github.com/infinity-plus/telegram_quiz_bot)
+2. 🎉 Merged PR [#89](https://github.com/infinity-plus/github-readme-stats/pull/89) in [infinity-plus/github-readme-stats](https://github.com/infinity-plus/github-readme-stats)
+3. 💪 Opened PR [#16](https://github.com/infinity-plus/telegram_quiz_bot/pull/16) in [infinity-plus/telegram_quiz_bot](https://github.com/infinity-plus/telegram_quiz_bot)
 4. 🎉 Merged PR [#9](https://github.com/BlackPearlOrigin/blackpearlorigin/pull/9) in [BlackPearlOrigin/blackpearlorigin](https://github.com/BlackPearlOrigin/blackpearlorigin)
 5. 🎉 Merged PR [#6](https://github.com/BlackPearlOrigin/blackpearlorigin/pull/6) in [BlackPearlOrigin/blackpearlorigin](https://github.com/BlackPearlOrigin/blackpearlorigin)
 6. 🎉 Merged PR [#49](https://github.com/ProjectBlackPearl/project_black_pearl/pull/49) in [ProjectBlackPearl/project_black_pearl](https://github.com/ProjectBlackPearl/project_black_pearl)
